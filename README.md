@@ -472,15 +472,7 @@ Add the demonstration video/live deployment link here.
 
 ---
 
-# 👤 Author
 
-**Rachita R.**
-
-Computer Science and Engineering — Artificial Intelligence & Machine Learning
-
-Sahyadri College of Engineering and Management
-
----
 
 # 📄 Assignment Context
 
